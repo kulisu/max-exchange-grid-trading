@@ -15,7 +15,7 @@ from lib.helpers import convert_to_time, get_readable_timestamp, get_truncated_v
 from lib.vendors.DEPRECATED.max.client import Client
 from lib.vendors.DEPRECATED.max.constants import *
 
-_dry = False
+_dry = True
 _pow = 10 ** 8
 
 

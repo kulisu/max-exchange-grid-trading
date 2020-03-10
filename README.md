@@ -22,7 +22,7 @@ USE THIS WRAPPER AT YOUR OWN RISK, I WILL NOT CORRESPOND TO ANY LOSES
 
 ```bash
 git clone https://github.com/kulisu/max-exchange-grid-trading ~/max-exchange-grid-trading
-cd ~/max-exchange-api-python3
+cd ~/max-exchange-grid-trading
 
 # update API key and secret
 vim lib/config/exchanges/max.py
